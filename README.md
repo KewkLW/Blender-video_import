@@ -1,4 +1,4 @@
-# Change to Video Size Add-on for Blender Sequencer
+# Video Size Add-on for Blender Sequencer
 
 This add-on for Blender Sequencer allows you to easily set the output properties of your video or image sequence to match the dimensions of your input video. It adds a new menu item to the Sequencer menu, under "Add".
 
